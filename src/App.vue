@@ -91,7 +91,7 @@ export default {
   <div class="bg-black">
     <div class="container">
       <!-- Navbar start>>>>>>>>  -->
-      <nav class="flex justify-between items-center">
+      <nav class="flex justify-between items-center py-3">
         <div class="log"><img src="/logo.svg" alt="logo" /></div>
         <div class="menu text-[#8B8E99] flex gap-4">
           <a href="#home">Home</a>
